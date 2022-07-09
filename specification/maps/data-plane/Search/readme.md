@@ -1,16 +1,5 @@
-# Azure Search
 
-
-This is the AutoRest configuration file for Search Client
-
-## Getting Started
-
-## Configuration
-
-### Basic Information
-
-
-``` yaml
+```yaml
 title: SearchClient
 openapi-type: data-plane
 tag: 1.0
@@ -30,7 +19,7 @@ modelerfour:
 
 These settings apply only when `--tag=1.0` is specified on the command line.
 
-``` yaml $(tag) == '1.0'
+```yaml $(tag) == '1.0'
 input-file:
   - preview/1.0/search.json
 ```
