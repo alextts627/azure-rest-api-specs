@@ -3,14 +3,11 @@
 
 This is the AutoRest configuration file for Search Client
 
-
 ## Getting Started
 
 ## Configuration
 
 ### Basic Information
-
-These are the global settings for Search Client.
 
 ``` yaml
 title: SearchClient
