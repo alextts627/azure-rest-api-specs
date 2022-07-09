@@ -9,11 +9,11 @@ This is the AutoRest configuration file for Search Client
 
 ### Basic Information
 
+
 ``` yaml
 title: SearchClient
 openapi-type: data-plane
 tag: 1.0
-# at some point those credentials will move away to Swagger according to [this](https://github.com/Azure/autorest/issues/3718)
 add-credentials: true
 credential-default-policy-type: BearerTokenCredentialPolicy
 credential-scopes: https://atlas.microsoft.com/.default
