@@ -1,5 +1,6 @@
 
 ```yaml
+
 title: SearchClient
 openapi-type: data-plane
 tag: 1.0
@@ -14,12 +15,8 @@ modelerfour:
   lenient-model-deduplication: true
 ```
 
-
-### Tag: 1.0
-
-These settings apply only when `--tag=1.0` is specified on the command line.
-
 ```yaml $(tag) == '1.0'
+
 input-file:
   - preview/1.0/search.json
 ```
