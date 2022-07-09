@@ -3,19 +3,8 @@
 
 This is the AutoRest configuration file for Search Client
 
----
 
 ## Getting Started
-
-To build the SDK for Search, simply [Install AutoRest](https://aka.ms/autorest/install) and in this folder, run:
-
-> `autorest`
-
-To see additional help and options, run:
-
-> `autorest --help`
-
----
 
 ## Configuration
 
