@@ -10,9 +10,6 @@ credential-scopes: https://atlas.microsoft.com/.default
 track2: true
 verbose: true
 sdk-integration: true
-modelerfour:
-  additional-checks: false
-  lenient-model-deduplication: true
 ```
 
 ```yaml $(tag) == '1.0'
